@@ -38,7 +38,7 @@ const twitch = () => {
           Crowdfunding: Targeted and easy-to-use
           </p>
           <a
-            href='https://twitch-nextjs-tailwind.vercel.app/'
+            href='#'
             target='_blank'
             rel='noreferrer'
           >
